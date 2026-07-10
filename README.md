@@ -1,5 +1,6 @@
 # MecchaChameleon-MecchaBionix
-<img width="1920" height="1080" alt="meccha cover (1)" src="https://github.com/user-attachments/assets/1b2c0bcf-84b7-41e9-9004-9ab60b9633fd" />
+<img width="1920" height="1080" alt="cover (1)" src="https://github.com/user-attachments/assets/54b27412-0f37-456b-8d11-df6b02c7e0a1" />
+
 
 Ultimate Trainer for MECCHA CHAMELEON  
 Wallhack · Auto-Aim · Flight · Teleport · Invincibility · Infinite Ink  
